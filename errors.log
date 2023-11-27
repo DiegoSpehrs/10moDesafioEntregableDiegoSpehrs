@@ -83,3 +83,205 @@
   level: 'info',
   timestamp: '2023-11-27T21:16:43.333Z'
 }
+{
+  message: 'Escuchando al puerto 8080',
+  level: 'info',
+  timestamp: '2023-11-27T21:59:49.936Z'
+}
+{
+  message: 'Escuchando al puerto 8080',
+  level: 'info',
+  timestamp: '2023-11-27T22:01:03.055Z'
+}
+{
+  message: {
+    docs: [
+      {
+        _id: new ObjectId('64f7a435410f1c3d36e6bd5a'),
+        title: 'Iphone',
+        description: 'Esto es una prueba',
+        price: 450,
+        thumbnail: 'Esto es una prueba',
+        code: 'abc123',
+        stock: 17,
+        quantity: 0,
+        __v: 0,
+        category: 'celular'
+      },
+      {
+        _id: new ObjectId('64f7a4b2410f1c3d36e6bd5c'),
+        title: 'Ipad',
+        description: 'Esto es una prueba',
+        price: 300,
+        thumbnail: 'Esto es una prueba',
+        code: 'abc123',
+        stock: 20,
+        quantity: 0,
+        __v: 0,
+        category: 'tablet'
+      },
+      {
+        _id: new ObjectId('64f7a4bf410f1c3d36e6bd5e'),
+        title: 'Monitor gamer 27"',
+        description: 'Esto es una prueba',
+        price: 450,
+        thumbnail: 'Esto es una prueba',
+        code: 'abc123',
+        stock: 17,
+        quantity: 0,
+        __v: 0,
+        category: 'monitor'
+      },
+      {
+        _id: new ObjectId('64f7a4d1410f1c3d36e6bd60'),
+        title: 'Teclado Gamer RGB',
+        description: 'Esto es una prueba',
+        price: 150,
+        thumbnail: 'Esto es una prueba',
+        code: 'abc123',
+        stock: 20,
+        quantity: 0,
+        __v: 0,
+        category: 'perifericos'
+      },
+      {
+        _id: new ObjectId('64f7a4ea410f1c3d36e6bd62'),
+        title: 'Celular Samsung',
+        description: 'Esto es una prueba',
+        price: 400,
+        thumbnail: 'Esto es una prueba',
+        code: 'abc123',
+        stock: 17,
+        quantity: 0,
+        __v: 0,
+        category: 'celular'
+      },
+      {
+        _id: new ObjectId('64f7a4f9410f1c3d36e6bd64'),
+        title: 'Celular Motorolla',
+        description: 'Esto es una prueba',
+        price: 425,
+        thumbnail: 'Esto es una prueba',
+        code: 'abc123',
+        stock: 20,
+        quantity: 0,
+        __v: 0,
+        category: 'celular'
+      },
+      {
+        _id: new ObjectId('64f7a506410f1c3d36e6bd66'),
+        title: 'Celular Xiaomi',
+        description: 'Esto es una prueba',
+        price: 375,
+        thumbnail: 'Esto es una prueba',
+        code: 'abc123',
+        stock: 20,
+        quantity: 0,
+        __v: 0,
+        category: 'celular'
+      },
+      {
+        _id: new ObjectId('64f7a67e5186666a0a7c3d25'),
+        title: 'Auriculares sony gamer RGB',
+        description: 'Esto es una prueba',
+        price: 375,
+        thumbnail: 'Esto es una prueba',
+        category: 'perifericos',
+        code: 'abc123',
+        stock: 20,
+        quantity: 0,
+        __v: 0
+      },
+      {
+        _id: new ObjectId('64f7a69b5186666a0a7c3d27'),
+        title: 'Mouse gamer led',
+        description: 'Esto es una prueba',
+        price: 100,
+        thumbnail: 'Esto es una prueba',
+        category: 'perifericos',
+        code: 'abc123',
+        stock: 20,
+        quantity: 0,
+        __v: 0
+      },
+      {
+        _id: new ObjectId('64f7a6c35186666a0a7c3d29'),
+        title: 'Monitor gamer 24',
+        description: 'Esto es una prueba',
+        price: 300,
+        thumbnail: 'Esto es una prueba',
+        category: 'monitor',
+        code: 'abc123',
+        stock: 20,
+        quantity: 0,
+        __v: 0
+      }
+    ],
+    totalDocs: 11,
+    limit: 10,
+    totalPages: 2,
+    page: 1,
+    pagingCounter: 1,
+    hasPrevPage: false,
+    hasNextPage: true,
+    prevPage: null,
+    nextPage: 2
+  },
+  level: 'info',
+  timestamp: '2023-11-27T22:01:17.928Z'
+}
+{
+  message: undefined,
+  level: 'info',
+  timestamp: '2023-11-27T22:01:29.752Z'
+}
+{
+  message: 'Escuchando al puerto 8080',
+  level: 'info',
+  timestamp: '2023-11-27T22:03:11.706Z'
+}
+{
+  message: 'Escuchando al puerto 8080',
+  level: 'info',
+  timestamp: '2023-11-27T22:04:42.169Z'
+}
+{
+  message: 'Escuchando al puerto 8080',
+  level: 'info',
+  timestamp: '2023-11-27T22:11:06.156Z'
+}
+{
+  message: 'Escuchando al puerto 8080',
+  level: 'info',
+  timestamp: '2023-11-27T22:34:49.868Z'
+}
+{
+  message: 'Escuchando al puerto 8080',
+  level: 'info',
+  timestamp: '2023-11-27T22:37:08.637Z'
+}
+{
+  message: 'Escuchando al puerto 8080',
+  level: 'info',
+  timestamp: '2023-11-27T22:39:14.305Z'
+}
+{
+  message: 'Escuchando al puerto 8080',
+  level: 'info',
+  timestamp: '2023-11-27T22:41:57.720Z'
+}
+{
+  message: 'Escuchando al puerto 8080',
+  level: 'info',
+  timestamp: '2023-11-27T22:44:46.120Z'
+}
+{
+  message: 'Escuchando al puerto 8080',
+  level: 'info',
+  timestamp: '2023-11-27T22:51:25.195Z'
+}
+{
+  message: 'Escuchando al puerto 8080',
+  level: 'info',
+  timestamp: '2023-11-27T23:34:05.628Z'
+}
