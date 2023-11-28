@@ -13,13 +13,13 @@ paths:
       sumary: Agrega un nuevo producto a la base de datos, Esta ruta solo tienen accesso los usuarios con role admin
       tags:
         - Products
-      requestBodies:
+      requestBody:
         required: true
         content:
           application/json:
             schema:
-              $ref: "#components/requestBodies/updateProduct"  
-      responses:
+              $ref: "#components/schemas/products"
+      responses:  
         "200": 
           description: Devuelve un mensaje de New product created y muestra el nuevo producto creado
         "400":
@@ -52,12 +52,12 @@ paths:
           required: true
           schema:
             $type: string 
-      requestBodies:
+      requestBody:
         required: true
         content:
           application/json:
             schema:
-              $ref: "#components/requestBodies/updateProduct"       
+              $ref: "#components/schemas/products"       
       responses:
         "200":
           description: Este status devuelve un mensaje de Product updated successfully con un objeto del producto modificado
@@ -121,7 +121,7 @@ components:
         code: abc123
         stock: 17
         quantity: 0
-  requestBodies:
+  requestBody:
     updateProduct:
       type: object
       properties:
